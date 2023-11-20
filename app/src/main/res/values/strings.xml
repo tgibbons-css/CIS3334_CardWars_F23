@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">Project1CardWarSimple</string>
+    <string name="opponent_s_stack">Opponent\'s Stack</string>
+    <string name="_26">26</string>
+    <string name="status">Status</string>
+    <string name="your_stack">Your Stack</string>
+    <string name="play_next_hand">Play next hand</string>
+    <string name="help">Help</string>
+    <string name="image_of_card">Image of Card</string>
+    <string name="image_of_stack">Image of Stack</string>
+    <string name="end">End</string>
+</resources>
